@@ -22,7 +22,7 @@ You can try the calculator here: Live Demo (add your GitHub Pages or deployment 
 
 🚀 Getting Started
 1.Clone the repository:
-git clone https://github.com/your-username/vibrant-web-calculator.git
+git clone https://github.com/abbhix8/web_calculator.git
 2.Open (index.html) in your browser to see the calculator in action.
 
 💡 Future Improvements
